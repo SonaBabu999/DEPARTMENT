@@ -8,7 +8,7 @@
     <title>About Us</title>
 </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-warning">
+<nav class="navbar navbar-expand-lg navbar-light bg-warning">
         <div class="container-fluid">
           <a class="navbar-brand" href="index.php"><b>Rajagiri College Of Social Sciences</b></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -16,7 +16,25 @@
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                </ul>
+                
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="index.php"><b>Home</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="index1.php"><b>LOGIN</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="index2.php"><b>About Us</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="index3.php"><b>Gallery</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="index4.php"><b>Departments</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="index5.php"><b>Contact Us</b></a>
+              </li>
                 <div class="spinner-grow text-primary" role="status">
                     <span class="visually-hidden">Loading...</span>
                   </div>
